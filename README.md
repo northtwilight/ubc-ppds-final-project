@@ -16,6 +16,8 @@ Taking reported data from the Disney Corporation for the years 1991-2016 (see li
 - disney_revenue_1991-2016.csv
 ```
 
+You will need to run a Jupyter server to see the Altair charts included in the attached notebook.
+
 All five of these comprise the **Disney Character Success** dataset by Kelly Garrett, available at https://data.world/kgarrett/disney-character-success-00-16, **and licensed under the CC-BY license only**.
 
-All other notebooks, code and files are licensed explicitly under the MIT License.
+All other notebooks, code and files are under the MIT License.
